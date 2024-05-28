@@ -1,6 +1,3 @@
-Binomes: Saadi Nadine et Rachedi Ilyas
-======================================
-
 
 Objectifs
 ---------
